@@ -1,0 +1,29 @@
+SOFTWARES BÁSICOS :)
+
+
+			-Gerações de Sistemas Operacionais- SO
+
+			0. Linguagens de Programação (Tradução de Linguagem Humana x Máquina)
+			1. Sistemas Operacionais - Interpretadores de Comandos (Command.com)
+			2. Sistemas Operacionais - Gerenciador de Processos (Programas
+			3. Sistemas Operacionais - Gerenciador de arquivos (Programas)
+			4. Sistemas Operacionais - Gerenciador de Usuários (Local x Rede)
+
+
+
+
+			-Linguagens De Programação- LP
+
+
+			Baixo Nível (Para Microprocessaores - Assembly)
+			
+			Alto Nível -----------> Compilada| C,C++,C#
+			     |				 | Pascal
+			     |				 | VB			Java(JVM - Interpretado por uma Máquina Virtual
+			     |	
+			     |	
+			     |
+ 			     |_ _ _ _ _ _ _  > Interpretada| JavaScript.
+							   | PHP, JSP, ASP.
+	
+										
